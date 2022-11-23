@@ -13,3 +13,9 @@ Reading the data using object Mapper and calculating the mean of those two tempe
 5) Hardcoding the values to match the user criteria and send the notification. ( just put System out to assume the notification sent.)
 
 
+
+
+![image](https://user-images.githubusercontent.com/20368002/203585009-232dab02-e55b-4568-85fb-ef24878fab4f.png)
+
+
+
